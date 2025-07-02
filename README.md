@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there, I'm Surya! 👋
 <!--
 **SuryaKameshMantha/SuryaKameshMantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +14,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🎓 About Me<br>I'm a 3rd-year Chemical Engineering student with a strong curiosity and passion for learning. I actively explore the intersection of engineering, data, and technology, working on various exciting projects that challenge and grow my skills.<br><br>🚀 What I'm Working On<br><br>Exploring Neural Networks and Data Analytics<br><br>Deepening my knowledge in Machine Learning (ML) and Deep Learning (DL)<br><br>Collaborating on open-source projects<br><br>Participating in Hackathons to solve real-world problems<br><br>🤝 Let’s Connect<br>I'm always open to collaborating on innovative ideas or contributing to impactful projects.<br>📬 Reach out through any of my social media handles — I’d love to connect!<br><br>🎉 Fun Fact<br>I love exploring emerging technologies and pushing the boundaries of what’s possible.
+🎓 <strong>About Me</strong><br>
+I'm a 3rd-year Chemical Engineering student with a strong curiosity and passion for learning. I actively explore the intersection of engineering, data, and technology, working on various exciting projects that challenge and grow my skills.<br><br>
 
+🚀 <strong>What I'm Working On</strong><br>
+<ul>
+  <li>Exploring Neural Networks and Data Analytics</li>
+  <li>Deepening my knowledge in Machine Learning (ML) and Deep Learning (DL)</li>
+  <li>Collaborating on open-source projects</li>
+  <li>Participating in Hackathons to solve real-world problems</li>
+</ul><br>
+
+🤝 <strong>Let’s Connect</strong><br>
+I'm always open to collaborating on innovative ideas or contributing to impactful projects.<br>
+📬 Reach out through any of my social media handles — I’d love to connect!<br><br>
+
+🎉 <strong>Fun Fact</strong><br>
+I love exploring emerging technologies and pushing the boundaries of what’s possible.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/surya013198) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_suryakamesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/surya-kamesh-mantha-5b0135292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryakamesh.mantha.2005@gmail.com) 
